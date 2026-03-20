@@ -2,7 +2,7 @@ class CodeMem9 < Formula
   desc "Sync and watch Codex memories into Mem9 with redaction"
   homepage "https://github.com/dmego/code-mem9"
   url "https://github.com/dmego/code-mem9/releases/download/v0.1.0/code-mem9-v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_REAL_SHA256"
+  sha256 "57b8fb8f65eb84dd8bca879f56e2df51383158806e209810141e2aec21de466b"
   version "0.1.0"
   license "MIT"
 
