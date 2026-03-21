@@ -63,7 +63,7 @@ For each package release, update these fields in the formula:
 - `sha256`
 - `version`
 
-For `codex-mem9`, the release source of truth is the source repository tag such as `v0.1.0` in:
+For `codex-mem9`, the release source of truth is the source repository tag such as `v<version>` in:
 
 ```text
 https://github.com/dmego/codex-mem9
