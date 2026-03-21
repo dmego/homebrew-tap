@@ -13,29 +13,29 @@ Formula/
 Current formulas:
 
 ```text
-Formula/code-mem9.rb
+Formula/codex-mem9.rb
 ```
 
 ## Install from this tap
 
 ```bash
 brew tap dmego/tap
-brew install code-mem9
+brew install codex-mem9
 ```
 
 ## Upgrade an installed package
 
 ```bash
 brew update
-brew upgrade code-mem9
+brew upgrade codex-mem9
 ```
 
 ## Service management
 
 ```bash
-brew services start code-mem9
-brew services stop code-mem9
-brew services restart code-mem9
+brew services start codex-mem9
+brew services stop codex-mem9
+brew services restart codex-mem9
 brew services list
 ```
 
@@ -46,7 +46,7 @@ To publish another package in the same tap, add another file under `Formula/`.
 Example:
 
 ```text
-Formula/code-mem9.rb
+Formula/codex-mem9.rb
 Formula/another-tool.rb
 Formula/some-service.rb
 ```
@@ -63,10 +63,10 @@ For each package release, update these fields in the formula:
 - `sha256`
 - `version`
 
-For `code-mem9`, the release source of truth is the source repository tag such as `v0.1.0` in:
+For `codex-mem9`, the release source of truth is the source repository tag such as `v0.1.0` in:
 
 ```text
-https://github.com/dmego/code-mem9
+https://github.com/dmego/codex-mem9
 ```
 
 The tap repository only points Homebrew to the correct release artifact.
