@@ -1,9 +1,9 @@
 class CodexMem9 < Formula
   desc "Sync and watch Codex memories into Mem9 with redaction"
   homepage "https://github.com/dmego/codex-mem9"
-  url "https://github.com/dmego/codex-mem9/releases/download/v0.1.3/codex-mem9-v0.1.3.tar.gz"
-  sha256 "70906ee25d456ccd7b8599495232bb59dde6d11dcb9d8e9bc925e7cfa120881e"
-  version "0.1.3"
+  url "https://github.com/dmego/codex-mem9/releases/download/v0.1.4/codex-mem9-v0.1.4.tar.gz"
+  sha256 "7ea7a46e250b3b6f0f6079b2ccdcc310fd3d5d399c8fbef6dbc854e89858b02e"
+  version "0.1.4"
   license "MIT"
 
   depends_on "rust" => :build
